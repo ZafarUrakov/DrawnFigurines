@@ -17,7 +17,6 @@ public class Figures
                     else
                         Console.Write(" ");
                 }
-
                 assistant--;
                 Console.WriteLine();
             }

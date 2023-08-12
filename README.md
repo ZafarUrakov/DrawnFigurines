@@ -1,3 +1,5 @@
+# DrawnFigurines
+#### in this project you can see an example of the class , method , loop operations and so on.
 #### Types
 ```C#
 int & double & string & char
@@ -32,7 +34,7 @@ for (statement 1; statement 2; statement 3)
 
 ```C#
 Classes
-public class CalculatR{...}
+public class Messages{...}
 
 Methods
 static void Name(){...}
